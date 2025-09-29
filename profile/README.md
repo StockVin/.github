@@ -10,7 +10,7 @@ Brindar soluciones digitales inteligentes que optimicen la trazabilidad y gesti�
 
 - [**wineInventory-landing-page**](https://github.com/StockVin/WineInventory-LandingPage): Sitio web de negocio desarrollado usando HTML, CSS y Javascrip que ayudará a construir confianza con los visitantes de dicho sitio web.
 - [**wineInventory-backend-app**](): Aplicación para servicios web desarrollada usando Java y SprintBoot donde se usan APIs REST para manejar datos y operaciones que se necesitan para la aplicación.
-- [**wineInventory-frontend-app**](): Aplicación web desarrollada usando angular donde los usuarios realizarán sus acciones según sus necesidades.
+- [**wineInventory-frontend-app**](https://github.com/StockVin/WineInventory-frontend-application/tree/develop): Aplicación web desarrollada usando angular donde los usuarios realizarán sus acciones según sus necesidades.
 
 ## Quiénes somos
 
